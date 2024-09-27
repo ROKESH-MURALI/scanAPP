@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scanAPP/static/css/main.e6c13ad2.css",
+    "main.js": "/scanAPP/static/js/main.b5898cd8.js",
+    "static/js/453.db43371e.chunk.js": "/scanAPP/static/js/453.db43371e.chunk.js",
+    "index.html": "/scanAPP/index.html",
+    "main.e6c13ad2.css.map": "/scanAPP/static/css/main.e6c13ad2.css.map",
+    "main.b5898cd8.js.map": "/scanAPP/static/js/main.b5898cd8.js.map",
+    "453.db43371e.chunk.js.map": "/scanAPP/static/js/453.db43371e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b5898cd8.js"
+  ]
+}
